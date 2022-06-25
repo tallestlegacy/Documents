@@ -1,0 +1,99 @@
+Frames Per Second (Higher is better) Min, Max, Avg
+Pass 0, 11.017280, 39.505547, 25.023190
+Pass 1, 19.771715, 68.032761, 27.244690
+
+Time in milliseconds(ms). (Lower is better). Min, Max, Avg
+Pass 0, 25.312901, 90.766510, 39.962933
+Pass 1, 14.698801, 50.577301, 36.704399
+
+Frames under 16ms (for 60fps): 
+Pass 0: 0/236 frames (0.00%)
+Pass 1: 1/109 frames (0.92%)
+
+Frames under 33ms (for 30fps): 
+Pass 0: 1/236 frames (0.42%)
+Pass 1: 3/109 frames (2.75%)
+
+Percentiles in ms for pass 0
+50%,	39.00
+75%,	42.00
+80%,	43.00
+85%,	43.00
+90%,	45.00
+91%,	45.00
+92%,	45.00
+93%,	45.00
+94%,	45.00
+95%,	46.00
+96%,	46.00
+97%,	47.00
+98%,	47.00
+99%,	47.00
+
+Percentiles in ms for pass 1
+50%,	37.00
+75%,	38.00
+80%,	38.00
+85%,	39.00
+90%,	40.00
+91%,	40.00
+92%,	40.00
+93%,	40.00
+94%,	40.00
+95%,	41.00
+96%,	41.00
+97%,	41.00
+98%,	42.00
+99%,	42.00
+
+=== SYSTEM ===
+Windows XP Professional
+DX Feature Level: 10.0
+Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz(8 CPUs), ~4900MHz
+14704MB RAM
+Intel(R) UHD Graphics (CML GT2), 5782MB, Driver Version Unknown
+Graphics Card Vendor Id 0x8086 with Device ID 0x9b41
+
+=== SETTINGS ===
+Display: 1280x720 (FullScreen) @ 60Hz VSync OFF
+Tessellation: 0
+LodScale: 0.000000
+PedLodBias: 0.000000
+VehicleLodBias: 0.000000
+ShadowQuality: 1
+ReflectionQuality: 0
+ReflectionMSAA: 0
+SSAO: 0
+AnisotropicFiltering: 0
+MSAA: 0
+MSAAFragments: 0
+MSAAQuality: 0
+SamplingMode: 0
+TextureQuality: 0
+ParticleQuality: 0
+WaterQuality: 0
+GrassQuality: 0
+ShaderQuality: 0
+Shadow_SoftShadows: 0
+UltraShadows_Enabled: true
+Shadow_ParticleShadows: false
+Shadow_Distance: 1.000000
+Shadow_LongShadows: false
+Shadow_SplitZStart: 0.930000
+Shadow_SplitZEnd: 0.890000
+Shadow_aircraftExpWeight: 0.990000
+Shadow_DisableScreenSizeCheck: false
+Reflection_MipBlur: true
+FXAA_Enabled: false
+TXAA_Enabled: false
+Lighting_FogVolumes: false
+Shader_SSA: false
+DX_Version: 0
+CityDensity: 0.000000
+PedVarietyMultiplier: 0.000000
+VehicleVarietyMultiplier: 0.000000
+PostFX: 0
+DoF: false
+HdStreamingInFlight: false
+MaxLodScale: 0.000000
+MotionBlurStrength: 0.000000
